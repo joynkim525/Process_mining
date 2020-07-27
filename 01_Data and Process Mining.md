@@ -27,3 +27,23 @@
 - what is the best that can happen?
 &nbsp;&nbsp; -> about recommendation
 
+
+# 1.2 Different Types of Process Mining
+
+## Properties of event
+- case id 
+- activity : what
+- timestamp : when
+- resource : who
+
+## Three types of relationship
+- Play-out : start from a model, and from that model, generate behavior
+&nbsp;&nbsp; -> there is a loop that are infinitely many
+- Play-in : start from event data to the corresponding process model
+&nbsp;&nbsp; -> infer process models from raw event data
+- Replay : replay reality on top of the model
+&nbsp;&nbsp; -> check where the deviations are
+
+
+
+
